@@ -1,6 +1,6 @@
 # Flask Login Lab
 
-Aplicação didática de login e dashboard com sessões no servidor de aplicação,
+Aplicação didática de login e dashboard com cookies de sessão assinados,
 hashes de senha, CSRF e contratos de autenticação separados da persistência.
 Python 3.10+.
 
